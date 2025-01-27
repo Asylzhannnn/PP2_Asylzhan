@@ -188,7 +188,6 @@ thislist.extend(tropical)
 print(thislist)
 #['apple', 'banana', 'cherry', 'mango', 'pineapple', 'papaya']
 
-<<<<<<< HEAD
 thislist = ["apple", "banana", "cherry"]
 thislist.insert(1, "orange")
 print(thislist)
@@ -875,4 +874,22 @@ for x in fruits:
   if x == "banana":
     break
   print(x)    #apple
+  
+   
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
