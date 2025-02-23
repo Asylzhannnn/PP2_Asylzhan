@@ -1,0 +1,21 @@
+a
+ab
+asd
+abbb 
+
+abb
+abbb
+
+
+hello_world
+snake_case_test
+Helloworld
+
+dfgn_Def
+abc, a123b, aXYZb
+
+Hellon, PyTHon,Night
+
+hello, world.
+
+ILoveBarcelona, MyFavouriteFootballPlayerIsMessi
